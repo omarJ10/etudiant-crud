@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "nom": "farah",
+      "prenom": "nabli",
+      "classe": "L2DSI2"
+    },
+    {
+      "id": 3,
+      "nom": "aymen",
+      "prenom": "ben said",
+      "classe": "L2DSI3"
+    },
+    {
+      "id": 4,
+      "nom": "hadil",
+      "prenom": "JALLED",
+      "classe": "L2DSI2"
+    }
+  ]
+}

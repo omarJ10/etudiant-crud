@@ -1,0 +1,16 @@
+body{
+ background-image: url("../bg.jpg");
+ background-size: cover;
+ height: 100vh;
+ 
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+}
+.card{
+  height: min-content;
+  padding: 20px;
+  border-radius: 12px;
+  background:rgba(235, 235, 235, 0.86);
+}

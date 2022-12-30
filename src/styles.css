@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+header{
+  height: 100px;
+  background-color: rgb(33, 33, 104);
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+}
+
+header h1{
+  font-size: 50px;
+}
+section {
+  min-height: 350px;
+}
+
+footer{
+  background-color: rgb(34, 34, 243);
+  color: white;
+}
