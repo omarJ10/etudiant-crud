@@ -14,8 +14,7 @@ const routes: Routes = [
   {path:'etud/edit/:id' ,component: EtudiantEditComponent,canActivate: [LoginGuardService]},
   {path :'' ,redirectTo:'login',pathMatch:'full'}
   ];
-  // {path : "etudiant/edit/:id", component : BookEditComponent},
-
+ 
 
 
 @NgModule({
